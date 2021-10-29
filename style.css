@@ -30,6 +30,7 @@ div{
 .input-range{
     width: 500px;
     height: 35px;
+    padding: 0 0 0 10px;
     font-size: 14px;
     margin: 0 7.5%;
     border: none;
